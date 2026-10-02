@@ -1,0 +1,5 @@
+pillow
+numpy
+fonttools[woff]
+potracer
+skia-pathops
